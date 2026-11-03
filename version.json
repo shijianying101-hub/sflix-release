@@ -1,0 +1,7 @@
+{
+  "versionCode": 55,
+  "versionName": "2.10.3",
+  "url": "https://raw.githubusercontent.com/shijianying101-hub/sflix-release/main/sflix.apk",
+  "url32": "https://raw.githubusercontent.com/shijianying101-hub/sflix-release/main/sflix-tv.apk",
+  "notes": "不在家时不再去连 NAS（保护账号密码），在外面自动播网盘里的那一份"
+}

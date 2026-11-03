@@ -1,0 +1,7 @@
+{
+  "versionCode": 61,
+  "versionName": "2.11.0",
+  "url": "https://raw.githubusercontent.com/shijianying101-hub/sflix-release/main/sflix-beta.apk",
+  "url32": "https://raw.githubusercontent.com/shijianying101-hub/sflix-release/main/sflix-tv-beta.apk",
+  "notes": "电视版改成奈飞电视版布局：左边导航栏、详情页竖排大按钮、播放时左右键快进快退"
+}
